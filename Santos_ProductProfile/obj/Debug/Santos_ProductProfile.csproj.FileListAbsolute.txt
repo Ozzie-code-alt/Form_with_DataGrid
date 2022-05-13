@@ -1,0 +1,12 @@
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\bin\Debug\Santos_ProductProfile.exe.config
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\bin\Debug\Santos_ProductProfile.exe
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\bin\Debug\Santos_ProductProfile.pdb
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.frmLogin.resources
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.frmHome.resources
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.Properties.Resources.resources
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.exe
+C:\Users\justi\Desktop\Santos_ProductProfile\Santos_ProductProfile\obj\Debug\Santos_ProductProfile.pdb
